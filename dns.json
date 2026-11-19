@@ -1,7 +1,8 @@
 {
-  "app_name": "IPTV Player",
+  "app_name": "PurePlayPro",
   "message": "",
   "dns": [
-    { "name": "Servidor 1", "url": "http://mundopro.lat:80", "activo": true }
+    { "name": "Servidor 1", "url": "http://mundopro.lat:80", "activo": true },
+    { "name": "Servidor 2", "url": "http://liketv.pro:80", "activo": true }
   ]
 }
