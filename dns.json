@@ -1,1 +1,7 @@
-https://mundopro.lat:80
+{
+  "app_name": "IPTV Player",
+  "message": "",
+  "dns": [
+    { "name": "Servidor 1", "url": "http://mundopro.lat:80", "activo": true }
+  ]
+}
